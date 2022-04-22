@@ -1,0 +1,103 @@
+{
+"products": [
+  {
+    "id": 1,
+   "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "description":
+    "Your perfect pack for everyday use and walks in the forest.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 108.95,
+    "description":
+    "Your perfect pack for everyday use and walks in the forest.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 107.95,
+    "description":
+    "Your perfect pack for everyday use and walks in the forest.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 106.95,
+    "description":
+    "Your perfect pack for everyday use and walks in the forest.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 106.95,
+    "description":
+    "Your perfect pack for everyday use and walks in the forest.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 106.95,
+    "description":
+    "Your perfect pack for everyday use and walks in the forest.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 106.95,
+    "description":
+    "Your perfect pack for everyday use and walks in the forest.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 106.95,
+    "description":
+    "Your perfect pack for everyday use and walks in the forest.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 106.95,
+    "description":
+    "Your perfect pack for everyday use and walks in the forest.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 106.95,
+    "description":
+    "Your perfect pack for everyday use and walks in the forest.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 106.95,
+    "description":
+    "Your perfect pack for everyday use and walks in the forest.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+  }
+]
+}
